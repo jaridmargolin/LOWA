@@ -33,6 +33,6 @@
     "karma-phantomjs-launcher": "^1.0.4",
     "karma-webpack": "^2.0.3",
     "mocha": "^3.2.0",
-    "standard": "^9.0.2"
+    "standard": "^10.0.2"
   }
 }
