@@ -20,6 +20,8 @@ LOWA aims to speed up the process of getting a loader rendered on the screen by 
 
 ### Example Usage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jaridmargolin/LOWA.svg)](https://greenkeeper.io/)
+
 ```
 <!-- PREPROCESS TO INLINE SCRIPTS -->
 <script src="scripts/LOWA.js?__inline=true"></script>
